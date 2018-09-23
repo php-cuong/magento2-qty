@@ -1,0 +1,53 @@
+/** This CSS help us to display the buttons increase and decrease qty*/
+.product-options-bottom {
+  div.control {
+    position: relative;
+    width: 92px !important;
+    .minus,
+    .plus {
+      &:hover {
+        button {
+          background: #dfdfdf;
+          color: #252531;
+        }
+      }
+      button {
+        position: absolute;
+        top: 0px;
+        border-radius: 4px 0 0 4px;
+        border: 1px solid #dfdfdf;
+        background: #fff;
+        height: 40px;
+        line-height: 40px;
+        padding: 0px;
+        width: 28px;
+        text-align: center;
+        cursor: pointer;
+        box-shadow: none;
+      }
+    }
+    .minus {
+      button {
+        left: 0px;
+      }
+    }
+    .plus {
+      button {
+        right: 0px;
+        border-radius: 0px 4px 4px 0px;
+      }
+    }
+    .input-text.qty {
+      border-radius: 0px !important;
+      height: 20px !important;
+      height: 40px !important;
+      width: 40px !important;
+      text-align: center !important;
+      margin-left: 26px !important;
+      display: inline-block !important;
+      z-index: 5 !important;
+      padding: 0px 3px !important;
+      border: 1px solid #dfdfdf !important;
+    }
+  }
+}
