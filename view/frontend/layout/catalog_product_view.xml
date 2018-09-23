@@ -27,5 +27,10 @@
                 <argument name="template" xsi:type="string">PHPCuong_Qty::product/view/addtocart.phtml</argument>
             </action>
         </referenceBlock>
+        <referenceBlock name="product.info.addtocart">
+            <action method="setTemplate">
+                <argument name="template" xsi:type="string">PHPCuong_Qty::product/view/addtocart.phtml</argument>
+            </action>
+        </referenceBlock>
     </body>
 </page>
