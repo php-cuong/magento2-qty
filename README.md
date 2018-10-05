@@ -9,3 +9,4 @@ How to create the buttons increase and decrease quantity in Magento 2
 
 ## How to add the buttons increase and decrease quantity in Magento 2 mini cart
 - Youtube: https://www.youtube.com/watch?v=czt4WvHILa4&index=35&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ
+- Facebook: https://www.facebook.com/giaphugroupcom/videos/314071576055365/
